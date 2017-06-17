@@ -1,0 +1,15 @@
+c:\users\wahook\documents\visual studio 2017\Projects\Ezreal\Ezreal\bin\Debug\Ezreal.dll
+c:\users\wahook\documents\visual studio 2017\Projects\Ezreal\Ezreal\bin\Debug\Ezreal.pdb
+c:\users\wahook\documents\visual studio 2017\Projects\Ezreal\Ezreal\bin\Debug\HesaEngine.Core.dll
+c:\users\wahook\documents\visual studio 2017\Projects\Ezreal\Ezreal\bin\Debug\SharpDX.dll
+c:\users\wahook\documents\visual studio 2017\Projects\Ezreal\Ezreal\bin\Debug\SharpDX.DirectInput.dll
+c:\users\wahook\documents\visual studio 2017\Projects\Ezreal\Ezreal\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\wahook\documents\visual studio 2017\Projects\Ezreal\Ezreal\bin\Debug\HesaEngine.Wrapper.dll
+c:\users\wahook\documents\visual studio 2017\Projects\Ezreal\Ezreal\bin\Debug\Runtime.dll
+c:\users\wahook\documents\visual studio 2017\Projects\Ezreal\Ezreal\bin\Debug\HesaEngine.Core.dll.config
+c:\users\wahook\documents\visual studio 2017\Projects\Ezreal\Ezreal\bin\Debug\SharpDX.xml
+c:\users\wahook\documents\visual studio 2017\Projects\Ezreal\Ezreal\bin\Debug\SharpDX.DirectInput.xml
+c:\users\wahook\documents\visual studio 2017\Projects\Ezreal\Ezreal\bin\Debug\SharpDX.Direct3D9.xml
+c:\users\wahook\documents\visual studio 2017\Projects\Ezreal\Ezreal\obj\Debug\Ezreal.csprojResolveAssemblyReference.cache
+c:\users\wahook\documents\visual studio 2017\Projects\Ezreal\Ezreal\obj\Debug\Ezreal.dll
+c:\users\wahook\documents\visual studio 2017\Projects\Ezreal\Ezreal\obj\Debug\Ezreal.pdb
